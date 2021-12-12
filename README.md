@@ -4,7 +4,7 @@
  - Felipe Kenji Okida - 1996703
 
 
- - https://projetofelipelucas.000webhostapp.com
+ - https://projeto3felipelucas.netlify.app
 
 # 
 Projeto para a disciplina de porgramação web da UTFPR - CP.
